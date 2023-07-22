@@ -1,7 +1,7 @@
-﻿Destination;Coupon;Gender;Age;Income;Bar;CoffeeHouse;CarryAway;RestaurantLessThan20;Restaurant20To50;Temperature (°C);Time (h);Direction_same;Y
-No Urgent Place;Coffee House;Male;21;$75000 - $87499;1-3;<1;4-8;1-3;1-3;26.7;14;0;0
-No Urgent Place;Bar;Male;36;$87500 - $99999;<1;<1;<1;1-3;<1;26.7;10;0;0
-Home;Coffee House;Female;31;$100000 or More;<1;<1;>8;4-8;1-3;26.7;18;0;0
-No Urgent Place;Bar;Female;below21;$12500 - $24999;>8;1-3;<1;4-8;>8;12.8;10;0;0
-Home;Carry out & Take away;Female;36;$12500 - $24999;<1;<1;1-3;<1;<1;-1.1;18;0;1
-No Urgent Place;Coffee House;Male;21;$25000 - $37499;<1;1-3;1-3;1-3;<1;26.7;10;0;1
+﻿Destination;Coupon;Gender;Age;Income;Bar;CoffeeHouse;CarryAway;RestaurantLessThan20;Restaurant20To50;Temperature (°C);Time (h);Direction_same
+No Urgent Place;Coffee House;Male;21;$75000 - $87499;01/mar;<1;04/ago;01/mar;01/mar;26.7;14;0
+No Urgent Place;Bar;Male;36;$87500 - $99999;<1;<1;<1;01/mar;<1;26.7;10;0
+Home;Coffee House;Female;31;$100000 or More;<1;<1;>8;04/ago;01/mar;26.7;18;0
+No Urgent Place;Bar;Female;below21;$12500 - $24999;>8;01/mar;<1;04/ago;>8;12.8;10;0
+Home;Carry out & Take away;Female;36;$12500 - $24999;<1;<1;01/mar;<1;<1;-1.1;18;0
+No Urgent Place;Coffee House;Male;21;$25000 - $37499;<1;01/mar;01/mar;01/mar;<1;26.7;10;0
